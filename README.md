@@ -6,6 +6,8 @@ Physics-Informed Neural Networks (PINNs) have shown considerable promise in solv
 <img width="865" height="706" alt="image" src="https://github.com/user-attachments/assets/a27eb8e4-31f2-4465-a685-e85f2eb8aeb1" />
 
  Forward analysis model (CWPINN-F): (a) network topology; (b) computational flowchart.
+
+ 
  <img width="865" height="753" alt="image" src="https://github.com/user-attachments/assets/3e86e1db-c517-4ad1-9cda-1ae0f3ab1597" />
  
  Inverse analysis model (CWPINN-I): (a) network topology; (b) computational flowchart.
